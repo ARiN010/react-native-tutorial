@@ -31,7 +31,7 @@ export default function App() {
       <Component
       avatar={"https://imgnike-a.akamaihd.net/1300x1300/031644IGA1.jpg"}
       nome={"Tênis Nike Air max "}
-      preco={"R$ 1.299,90"}
+      preco={"R$ 1.299,99"}
        />
       </View>
       </View>
