@@ -16,16 +16,16 @@ export default function Header() {
 
 const styles = StyleSheet.create({
 container: {
-    backgroundColor: "#1f8a85",
+    backgroundColor: "#bea6d9",
     width: "100%",
     height: "60px",
-    marginBottom: "20px",
+    marginBottom: "60px",
     flexDirection: "row",
     alignItems: "center",
 },
  circulo: {
 
-    marginLeft: 20,
+    marginLeft: 20
   },
     text: {
     color: "white",

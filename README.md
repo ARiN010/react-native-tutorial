@@ -5,17 +5,32 @@
 -O que é FrameWork e qual a diferença para uma biblioteca?(framework:conjunto de ferramentas para resolver problemas, biblioteca: Da as funções para resolver o problema mas não é opinativo
 )
 -O que é o NPM?(node pack manager, gerenciador de pacote do node, comandos no terminal para gerenciar projetos no node).
+
 - O que é React?(Biblioteca, para desenvolver interface para os usuários mobile e web.)
+
 -o que é o React Native?(tras os componentes especificos para gerar interface mobile)
+
 -O que é o Expo?(framework para dispositivo mobile)
+
 -react native pode ser usado para desenvolvimento web?()
 Css do aplicativo é simulado mas não igual ao da web, tendo recursos limitados.
+
 - o estilo do css in JS no react native é igual ao css? tendo todas as propriedades? nâo é igual é baseado no css ":)"
+
 por que usar npx e nao npm para o expo?
 por que o npx vai instalar a versão compativel com a que se esta usando no momento.
+
 em quais pacotes encontro um componente de imagem? Qual melhor para usarmos atualmente? expo image, expo image melhor para ser usado 
 O que são propriedades de componentes?
 Servem para alterar um componemte todas as vezes que presciso reutilizar.
+
+-componente image em react-native e expo-image, o expo é melhor para ser utilizado por aceitar mais formatos e extenções de imagem.
+instalar projeto node: npm i "nome do pacote"
+npx por conta das versões de instalação, npx pega versão compativel com o pacote utilizado no momento.
+
+-o que são Hooks?
+são funções do react, chamadas de funções especiais para react, principais hooks: UseState. Diversas bibliotecas podem oferecer hooks e eles podem ser criados por nos, todo Hook tem a palavra USE, hooks so podem ser usados dentro dos componentes react,deve ser usado no top level dos componentes(parte inicial antre a declaração do componente e o return).
+
 
 Extra
 _revisão de variaveis e objetos 
