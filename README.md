@@ -29,3 +29,4 @@ npx create-expo-@applatest --template
 
 ### Expo
 
+useefct  é um hook que funciona como um gatilho e despara a função que foi especificada e qunado a uma mudança tambem despara a função especificada.

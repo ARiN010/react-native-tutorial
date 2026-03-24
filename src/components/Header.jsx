@@ -8,7 +8,7 @@ export default function Header() {
         <View style={styles.container}>
           <Fontisto name="shopping-bag-1" size={24} color="black" />
 
-            <text style={styles.text}>Lojas Arem</text>
+            <text style={styles.text}>Contatos</text>
 
         </View>
     );
@@ -16,7 +16,7 @@ export default function Header() {
 
 const styles = StyleSheet.create({
 container: {
-    backgroundColor: "#1f8a85",
+    backgroundColor: "#77ca8cff",
     width: "100%",
     height: "60px",
     marginBottom: "20px",
